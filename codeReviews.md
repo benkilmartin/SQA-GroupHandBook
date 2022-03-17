@@ -2,6 +2,7 @@ Code Review Links
 
 1. https://www.perforce.com/blog/qac/9-best-practices-for-code-review
 2. https://www.swarmia.com/blog/a-complete-guide-to-code-reviews/?utm_term=how%20to%20perform%20a%20code%20review&utm_campaign=SRH-REVIEW-EU-EN&utm_source=adwords&utm_medium=ppc&hsa_acc=6644081770&hsa_cam=16463390785&hsa_grp=134848023275&hsa_ad=585675515692&hsa_src=g&hsa_tgt=kwd-1637776691909&hsa_kw=how%20to%20perform%20a%20code%20review&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwuMuRBhCJARIsAHXdnqP3K87qPPp6A5CLEzEWOGyGpJ9DDLheV191rgnVrV1A02eiAG0cgrIaAmyEEALw_wcB
+3. https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/ 
 
 
 What are code reviews?
