@@ -12,7 +12,11 @@ A code review consists of one member of a group checking over another group memb
 Why should we implement code reviews?
 
 • The quality of the code improves and as a result efficient collaboration is easier to acheive.
+
 • Helps to identify bugs and inefficiencies at early development stages which saves time and money in the long term
+
 • Adds a level of consistency in the design and implementation of the code 
+
 • Knowledge is shared between the developers who are writing and reviewing the code which helps the developers build their skill set. 
+
 • Code reviews help to spread the ownership of the code, it is easy for a team member to continously be assigned the same kind of task because "it's what they're good at". By implementing code reviews all team members become comfortable with all aspects of the development lifecycle. 
