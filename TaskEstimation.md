@@ -1,1 +1,2 @@
-Test 
+# Task Estimation in Scrum
+Task Estimation refers to measuring the effort, time, and cost associated with a project. In project management, estimating the project's scope is the most important step. No matter how big or small the project is, estimating it well can ease execution throughout the project execution cycle. Most of the time the success or failure of a project depends on the estimate. It's often challenging for software developers to estimate projects since it's frequently done with incomplete information or incorrect information. Below are some common challenges associated with project estimation.
