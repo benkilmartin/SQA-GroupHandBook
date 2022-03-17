@@ -35,9 +35,15 @@ There are various code review techniqies that should be adapted by a team when i
 
     - While it may be tempting to tear through a review, assuming that someone else will catch the errors that you don´t find. However, SmartBear research shows a significant drop in defect density at rates faster than 500 LOC per hour. 
 
-• Set goals and capture metrics prior to the review 
+• Set objectives and principles 
 
-    - Before implementing a process, your team should decide how you will measure the effectiveness of peer review and name a few tangible goals.
+Prior to executing a code review, it is critical to choose significant measurements and to characterize specific objectives. The Objectives include acceptable coding standards in the organisation. Having set norms ensures that every product item created and reviewed in the organization satisfies the companies standards.
 
-    - Using SMART criteria, start with external metrics. For example, "reduce support calls by 15%," or "cut the percentage of defects injected by development in half".
+When reviewing code considering certain questions can help to focus on the right things. For example, they may assess the code to answer:
+
+1. Do I understand what the code does?
+
+2. Does the code work as I anticipate that it should?
+
+3. Does this code satisfy administrative prerequisites?
 
