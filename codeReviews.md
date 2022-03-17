@@ -29,11 +29,11 @@ There are various code review techniqies that should be adapted by a team when i
 
 • When reviewing source code split it into sections of no more than 400 lines at a time 
     
-    - A SmartBear study of a Cisco Systems programming team revealed that developers should review no more than 200 to 400 lines of code (LOC) at a time. The brain can only effectively process so much information at a time; beyond 400 LOC, the ability to find defects diminishes.
+1.  A SmartBear study of a Cisco Systems programming team revealed that developers should review no more than 200 to 400 lines of code (LOC) at a time. The brain can only effectively process so much information at a time; beyond 400 LOC, the ability to find defects diminishes.
 
 • Ensure that you spend no longer than 60 minutes reviewing each section of code
 
-    - While it may be tempting to tear through a review, assuming that someone else will catch the errors that you don´t find. However, SmartBear research shows a significant drop in defect density at rates faster than 500 LOC per hour. 
+1.  While it may be tempting to tear through a review, assuming that someone else will catch the errors that you don´t find. However, SmartBear research shows a significant drop in defect density at rates faster than 500 LOC per hour. 
 
 • Set objectives and principles 
 
