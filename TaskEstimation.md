@@ -20,7 +20,11 @@ The correct buffer to pad an estimate is a common issue for Project Managers. Al
 An estimate for a project is typically made using an expert's judgement or based on experience. Picking an analogy and mapping the estimate might sound intuitive, but it is often risky due to the unique characteristics and dependencies in every project, the people involved, and their skillset, various tools and technologies adopted, and the infrastructure and resources made available. 
 
 **5. Estimation Person**
- 
+
 When estimation is not done by the developer or in cooperation with the developer, it can result in huge disparities between the estimate and the actual result. 
+
+**6. Software requirements are not set in stone**
+Customers expect a product that is constantly changing in an ever-changing landscape. Furthermore, they are also subject to information overload, and sometimes they don't know what they want to do. Additional feature requests can arrive at any time and affect your current development plans. 
+
 
 
