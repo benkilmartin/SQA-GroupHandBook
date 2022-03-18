@@ -27,7 +27,19 @@ When estimation is not done by the developer or in cooperation with the develope
 
 Customers expect a product that is constantly changing in an ever-changing landscape. Furthermore, they are also subject to information overload, and sometimes they don't know what they want to do. Additional feature requests can arrive at any time and affect your current development plans.
 
+
 It is evident that there are many difficulties when it comes to task estimation. However, the estimation process can be reliable if certain basic principles are followed: 
+
+## Solutions 
+
+**1. Use Past Knowledge**
+
+Look for input from people who have done similar work before, but only use the information as a guide. Every project is different when thinking about technology, integration points, and priorities. Use the information from past estimates to see what has changed and how it affects this attempt. 
+
+
+
+
+
 
 
 
