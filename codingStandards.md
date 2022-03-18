@@ -20,6 +20,12 @@ Proper indentation is very important to increase the readability of the code. Fo
 - Proper Indentation should be there at the beginning and at the end of each block in the program.
 - All braces should start from a new line and the code following the end of braces also start from a new line.
 
+## Error Handling & Testing:
+- When throwing an exception make sure to properly handle the error and give an informative message
+- All functions that are encountering an error condition should either return a 0 or 1 for simplifying the debugging
+- Unit tests need to be written for all functions so any changes down that road can be done with peace of mind
+- Unit testing saves time and also reduces code complexity
+
 
 1.https://www.browserstack.com/guide/coding-standards-best-practices#:~:text=Practices%20To%20Follow-,What%20are%20Coding%20Standards%3F,sophisticated%20and%20highly%20functional%20code.
 
