@@ -1,9 +1,9 @@
-**What are code reviews?**
+# **What are code reviews?**
 
 A code review consists of one member of a group checking over another group members code, the aim of a peer to peer code review is to identify mistakes, catch early bugs or areas for improvement in terms of code efficiency. The implementation of code reviews into a teams standard practices is one of the cheapest ways to reduce bugs at early stages, it is a crucial part of software quality assurance and provides a wide range of benefits within the development lifecycle.   
 
 
-**Why should we implement code reviews?**
+# **Why should we implement code reviews?**
 
 • The quality of the code improves and as a result efficient collaboration is easier to achieve.
 
@@ -16,7 +16,7 @@ A code review consists of one member of a group checking over another group memb
 • Code reviews help to spread the ownership of the code, it is easy for a team member to continuously be assigned the same kind of task because "it's what they're good at". By implementing code reviews all team members become comfortable with all aspects of the development lifecycle. 
 
 
-**Code Review Techniques** 
+# **Code Review Techniques** 
 
 There are various code review techniques that should be adapted by a team when implementing a code review, however I have listed some techniques that I believe are easy to achieve and will do a great deal of good. 
 
@@ -28,7 +28,7 @@ There are various code review techniques that should be adapted by a team when i
 
 1.  While it may be tempting to tear through a review, assuming that someone else will catch the errors that you don´t find. However, SmartBear research shows a significant drop in defect density at rates faster than 500 LOC per hour. 
 
-**Set objectives and principles** 
+# **Set objectives and principles** 
 
 Prior to executing a code review, it is critical to choose significant measurements and to characterize specific objectives. The Objectives include acceptable coding standards in the organisation. Having set norms ensures that every product item created and reviewed in the organization satisfies the companies standards.
 
@@ -40,7 +40,7 @@ When reviewing code considering certain questions can help to focus on the right
 
 3. Does this code satisfy administrative prerequisites?
 
-**How you should structure code review comments**
+# **How you should structure code review comments**
 
 It is important to be courteous and respectful when adding comments to a code review while also being helpful to the developer who's code you are reviewing. Always make sure that you are making comments on the code rather than on the developer themselves. Below are examples of a bad and good comment. 
 
@@ -54,7 +54,7 @@ You should also make sure to give guidance to the developer who's code you are r
 
 
 
-**Code Review Links** 
+# **Code Review Links** 
 
  
 
