@@ -13,6 +13,3 @@ When working in a group, it's critical to establish conventions and guidelines f
 
 3.https://www.perforce.com/resources/qac/coding-standards
 
-4.https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05
-
-5.https://www.parasoft.com/blog/an-ounce-of-prevention-software-safety-security-through-coding-standards/
