@@ -40,6 +40,27 @@ It is evident that there are many difficulties when it comes to task estimation.
 
 Look for input from people who have done similar work before, but only use the information as a guide. Every project is different when thinking about technology, integration points, and priorities. Use the information from past estimates to see what has changed and how it affects this attempt. 
 
+**2. Allow for the Unknown “Unknowns”** 
+
+Prepare a buffer that allows for unexpected activities and things that you may miss in your estimates (such as bug fixes or having your lead developer leave the company). Then, refine the buffer as the project goes along. 
+
+**3. Asking questions to clarify requirements** ­ 
+
+Project Managers should ask as many questions as they can to gain a deeper understanding of the project requirements. More clarity will always lead to better estimations. 
+
+**4. Tasks Splitting** 
+
+The PM/Developer should split the task into small, last mile sub-tasks, which will enable much better estimation of effort. This can be done by creating WBS, work breakdown structure, which lists all the sub-tasks and their efforts in detail.  
+
+**5. Estimation** 
+
+A time estimate should always be determined by the developer or in close cooperation with a developer by defining each milestone of the project. A PM will use their experience in the estimation process. Estimation should be done in range of time frame rather than a timeline. 
+
+**6. Don’t forget about quality** 
+
+It takes time to create high-quality software. If you stick to delivering your product quickly without considering the non-functional elements, you will suffer. Be sure to include design, development, and testing time in your estimates. 
+
+It is apparent that despite the many challenges of accurately estimating tasks the above recommended solutions will greatly assist Project Managers in better software development project estimation. 
 
 ## Task Estimation in Scrum Links 
 
@@ -49,4 +70,6 @@ Look for input from people who have done similar work before, but only use the i
 
 3. https://www.aapnainfotech.com/software-development-project-estimation-problems-solutions/
 
+4. https://www.cyclopt.com/blog/software-estimates-part-1-the-problem-with-software-effort-estimation/
 
+5. https://www.cyclopt.com/blog/software-estimates-part-2-three-dos-and-three-donts-about-estimates
