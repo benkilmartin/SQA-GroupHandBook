@@ -3,7 +3,7 @@
 A code review consists of one member of a group checking over another group members code, the aim of a peer to peer code review is to identify mistakes, catch early bugs or areas for improvement in terms of code efficiency. The implementation of code reviews into a teams standard practices is one of the cheapest ways to reduce bugs at early stages, it is a crucial part of software quality assurance and provides a wide range of benefits within the development lifecycle.   
 
 
-# **Why should we implement code reviews?**
+<!-- # **Why should we implement code reviews?**
 
 • The quality of the code improves and as a result efficient collaboration is easier to achieve.
 
@@ -13,7 +13,7 @@ A code review consists of one member of a group checking over another group memb
 
 • Knowledge is shared between the developers who are writing and reviewing the code which helps the developers build their skill set. 
 
-• Code reviews help to spread the ownership of the code, it is easy for a team member to continuously be assigned the same kind of task because "it's what they're good at". By implementing code reviews all team members become comfortable with all aspects of the development lifecycle. 
+• Code reviews help to spread the ownership of the code, it is easy for a team member to continuously be assigned the same kind of task because "it's what they're good at". By implementing code reviews all team members become comfortable with all aspects of the development lifecycle.  -->
 
 
 # **Code Review Techniques** 
@@ -40,17 +40,17 @@ When reviewing code considering certain questions can help to focus on the right
 
 3. Does this code satisfy administrative prerequisites?
 
-# **How you should structure code review comments**
+<!-- # **How you should structure code review comments**
 
-It is important to be courteous and respectful when adding comments to a code review while also being helpful to the developer who's code you are reviewing. Always make sure that you are making comments on the code rather than on the developer themselves. Below are examples of a bad and good comment. 
+It is important to be courteous and respectful when adding comments to a code review while also being helpful to the developer who's code you are reviewing. Always make sure that you are making comments on the code rather than on the developer themselves. Below are examples of a bad and good comment.  -->
 
-1. Bad: “Why did you use threads here when there’s obviously no benefit to be gained from concurrency?”
+<!-- 1. Bad: “Why did you use threads here when there’s obviously no benefit to be gained from concurrency?”
 
-2. Good: “The concurrency model here is adding complexity to the system without any actual performance benefit that I can see. Because there’s no performance benefit, it’s best for this code to be single-threaded instead of using multiple threads.”
+2. Good: “The concurrency model here is adding complexity to the system without any actual performance benefit that I can see. Because there’s no performance benefit, it’s best for this code to be single-threaded instead of using multiple threads.” -->
 
-You should make sure to explain WHY you are suggesting any changes, this gives a bit more explanation about your intent, the practice that you are following and how your suggestion improved the quality of the code
+<!-- You should make sure to explain WHY you are suggesting any changes, this gives a bit more explanation about your intent, the practice that you are following and how your suggestion improved the quality of the code
 
-You should also make sure to give guidance to the developer who's code you are reviewing. In general it is not the reviewers responsibility to make changes to the code but to show the developer who wrote the code where the changes should be made. This is why it is extremely important to leave a detailed identification of the problem, from there you can either let them decide on a fix or else suggest a solution yourself. 
+You should also make sure to give guidance to the developer who's code you are reviewing. In general it is not the reviewers responsibility to make changes to the code but to show the developer who wrote the code where the changes should be made. This is why it is extremely important to leave a detailed identification of the problem, from there you can either let them decide on a fix or else suggest a solution yourself.  -->
 
 
 
