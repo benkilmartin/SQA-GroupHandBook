@@ -13,12 +13,28 @@ When working in a group, it's critical to establish conventions and guidelines f
 - It helps in code reuse and helps to detect error easily.
 - It promotes sound programming practices and increases efficiency of the programmers.
 
+## Naming Conventions: 
+It's very important to give meaningful names to variables, functions, packages etc. so they are easily undertandable. It's up to the developer what to use but in general...
+- CamelCase should be used for local variables e.g firstName. So the first lettter of each word is a capital apart from the first.
+- Constants should have all capital letters e.g CONSDATA
+- Global variables should start with a capital letter e.g GlobalVariable.
+- Avoid using digits in variable names.
+- Functions should be written in CamelCase and should describe what it is doing.
+- File names should use CamelCase.
+
 ## Indentation:
 Proper indentation is very important to increase the readability of the code. For making the code readable, programmers should use White spaces properly. Some of the spacing conventions are given below:
 - There must be a space after giving a comma between two function arguments.
 - Each nested block should be properly indented and spaced.
 - Proper Indentation should be there at the beginning and at the end of each block in the program.
 - All braces should start from a new line and the code following the end of braces also start from a new line.
+
+## Comments: 
+- Adding comments helps other developers to understand your code
+- When writing a complex function add a short comment at the beginning to briefly explain it
+- At the top of each file or class specify its role and contents
+- Avoid unnecessary comments that explain lines of code that are obvious
+- Keep comments clear and tidy
 
 ## Error Handling & Testing:
 - When throwing an exception make sure to properly handle the error and give an informative message
@@ -33,3 +49,6 @@ Proper indentation is very important to increase the readability of the code. Fo
 
 3.https://www.perforce.com/resources/qac/coding-standards
 
+4.https://medium.com/@psengayire/the-importance-of-coding-standards-and-conventions-in-the-software-development-team-how-they-can-5d252556a05
+
+5.https://www.parasoft.com/blog/an-ounce-of-prevention-software-safety-security-through-coding-standards/
