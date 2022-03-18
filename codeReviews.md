@@ -18,7 +18,7 @@ A code review consists of one member of a group checking over another group memb
 
 **Code Review Techniques** 
 
-There are various code review techniques that should be adapted by a team when implementing a code review, however I have listed 3 that I believe are easy to achieve and will do a great deal of good. 
+There are various code review techniques that should be adapted by a team when implementing a code review, however I have listed some techniques that I believe are easy to achieve and will do a great deal of good. 
 
 • When reviewing source code split it into sections of no more than 400 lines at a time 
     
