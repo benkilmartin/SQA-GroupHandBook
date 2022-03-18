@@ -7,6 +7,14 @@ When working in a group, it's critical to establish conventions and guidelines f
         alt="Markdown Monster icon" width="350"/>
 </p>
 
+## Good Coding Standards:
+- A coding standard gives a uniform appearance to the codes written by different engineers.
+- It improves readability, and maintainability of the code and it reduces complexity also.
+- It helps in code reuse and helps to detect error easily.
+- It promotes sound programming practices and increases efficiency of the programmers.
+
+
+
 1.https://www.browserstack.com/guide/coding-standards-best-practices#:~:text=Practices%20To%20Follow-,What%20are%20Coding%20Standards%3F,sophisticated%20and%20highly%20functional%20code.
 
 2.https://www.geeksforgeeks.org/coding-standards-and-guidelines/
