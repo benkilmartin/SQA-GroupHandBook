@@ -1,3 +1,0 @@
-# SQA-GroupHandBook
-
-test commit 

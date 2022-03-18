@@ -13,3 +13,11 @@ Each topic will feature five high-quality resources connected to the issue, such
 The duos must first pick the resources they will use for the topics, as well as what they will discuss in each resource.
 
 Git Flow standards will be adheard to during the duration of the project, each pair must create their own branch in order to avoid conflicts on the same file, chnages will be commited regularly and a review will be made before merging back into the develop branch.
+
+
+# **Retrospective**
+
+## **What we would do differently**
+- Througly understand the command we were trying to make on github
+- Take more time to review eachother's pull requests
+  
