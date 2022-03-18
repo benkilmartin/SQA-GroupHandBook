@@ -52,7 +52,7 @@ When reviewing code considering certain questions can help to focus on the right
 
  # **How you should structure code review comments**
 
-It is important to be courteous and respectful when adding comments to a code review while also being helpful to the developer who's code you are reviewing. Always make sure that you are making comments on the code rather than on the developer themselves. Below are examples of a bad and good comment.  
+It's important to be courteous and respectful when adding comments to a code review while also being helpful to the developer who's code you are reviewing. Always make sure that you are making comments on the code rather than on the developer themselves. Below are examples of a bad and good comment.  
 
 1. Bad: “Why did you use threads here when there’s obviously no benefit to be gained from concurrency?”
 
