@@ -41,9 +41,12 @@ It is evident that there are many difficulties when it comes to task estimation.
 Look for input from people who have done similar work before, but only use the information as a guide. Every project is different when thinking about technology, integration points, and priorities. Use the information from past estimates to see what has changed and how it affects this attempt. 
 
 
+## Task Estimation in Scrum Links 
 
+1. https://www.edupristine.com/blog/project-estimation-challenges
 
+2. https://www.macadamian.com/learn/12-secrets-to-overcoming-software-estimation-challenges/
 
-
+3. https://www.aapnainfotech.com/software-development-project-estimation-problems-solutions/
 
 
