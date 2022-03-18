@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 test 
-=======
 # **What are code reviews?**
 
 A code review consists of one member of a group checking over another group members code, the aim of a peer to peer code review is to identify mistakes, catch early bugs or areas for improvement in terms of code efficiency. The implementation of code reviews into a teams standard practices is one of the cheapest ways to reduce bugs at early stages, it is a crucial part of software quality assurance and provides a wide range of benefits within the development lifecycle.   
@@ -79,4 +77,3 @@ You should also make sure to give guidance to the developer who's code you are r
 3. https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/ 
 4. https://google.github.io/eng-practices/review/reviewer/comments.html
 5. https://www.atlassian.com/agile/software-development/code-reviews
->>>>>>> codeReviews
