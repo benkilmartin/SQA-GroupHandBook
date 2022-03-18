@@ -27,6 +27,10 @@ When estimation is not done by the developer or in cooperation with the develope
 
 Customers expect a product that is constantly changing in an ever-changing landscape. Furthermore, they are also subject to information overload, and sometimes they don't know what they want to do. Additional feature requests can arrive at any time and affect your current development plans.
 
+<p align="center">
+  <img src="https://www.commitstrip.com/wp-content/uploads/2020/10/Strip-Daily-meeting-650-finalenglish.jpg"
+        alt="Markdown Monster icon" width="350"/>
+</p>
 
 It is evident that there are many difficulties when it comes to task estimation. However, the estimation process can be reliable if certain basic principles are followed: 
 
