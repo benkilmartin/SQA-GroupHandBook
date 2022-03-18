@@ -52,7 +52,10 @@ It is important to be courteous and respectful when adding comments to a code re
 
 You should also make sure to give guidance to the developer who's code you are reviewing. In general it is not the reviewers responsibility to make changes to the code but to show the developer who wrote the code where the changes should be made. This is why it is extremely important to leave a detailed identification of the problem, from there you can either let them decide on a fix or else suggest a solution yourself.  -->
 
-
+<p align="center">
+  <img src="https://www.commitstrip.com/wp-content/uploads/2021/04/Strip-Les-erreurs-qui-en-cachent-dautres-650-finalenglish.jpg"
+        alt="Markdown Monster icon" width="350"/>
+</p>
 
 # **Code Review Links** 
 
