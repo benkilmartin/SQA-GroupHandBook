@@ -24,7 +24,10 @@ An estimate for a project is typically made using an expert's judgement or based
 When estimation is not done by the developer or in cooperation with the developer, it can result in huge disparities between the estimate and the actual result. 
 
 **6. Software requirements are not set in stone**
-Customers expect a product that is constantly changing in an ever-changing landscape. Furthermore, they are also subject to information overload, and sometimes they don't know what they want to do. Additional feature requests can arrive at any time and affect your current development plans. 
+
+Customers expect a product that is constantly changing in an ever-changing landscape. Furthermore, they are also subject to information overload, and sometimes they don't know what they want to do. Additional feature requests can arrive at any time and affect your current development plans.
+
+It is evident that there are many difficulties when it comes to task estimation. However, the estimation process can be reliable if certain basic principles are followed: 
 
 
 
